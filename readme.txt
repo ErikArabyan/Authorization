@@ -1,5 +1,5 @@
 do this.
-after creating venv
+after activating venv
 python manage.py makemigrations
 python manage.py makemigrations main
 python manage.py migrate
