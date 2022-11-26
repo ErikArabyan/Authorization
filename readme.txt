@@ -4,4 +4,4 @@ python manage.py makemigrations
 python manage.py makemigrations main
 python manage.py migrate
 
-if afther this steps you will have errors comment core/urls.py admin path and settings.py 28 row (#'django.contrib.admin',)
+if afther this steps you will have errors with registration comment core/urls.py admin path and settings.py 28 row (#'django.contrib.admin',)
