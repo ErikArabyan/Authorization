@@ -1,0 +1,13 @@
+confirm_email asuma vor emaylt stugi
+invalid_verify erb vor sxal ssilka en sxmum jamket ancac stexa qcum
+register-register
+login-login
+verify_email uxarkuma verifikaciayi namak imeylin
+Password_reset_done forgot passwordin sxmeluc heto pacvox namaky vor asuma mailt stugi
+Password_reset_confirm nor passworda stexcum
+Password_reset_complete asuma vor passy stexcvec
+
+Password_change_done
+Password_change_form
+Password_reset_email
+Password_reset_form
